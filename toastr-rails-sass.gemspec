@@ -30,6 +30,6 @@ Gem::Specification.new do |s|
   s.rubygems_version = "1.8.23"
   s.summary = "Toastr: Simple javascript toast notifications"
 
-  s.add_dependency(%q<sass-rails>, ["~> 5.0"])
+  s.add_dependency(%q<sass-rails>, ["~> 6.0"])
 
 end
